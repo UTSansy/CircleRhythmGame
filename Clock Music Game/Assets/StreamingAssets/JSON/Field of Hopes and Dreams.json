@@ -1,0 +1,22 @@
+{
+  "noteToCircle": {
+    "48": 0,
+    "50": 1
+  },
+  "Start": [
+    {
+      "circleId": 0,
+      "position": [0, 0],
+      "scale": 1.3,
+      "direction": "clockwise",
+      "rotationSpeed": 1.0
+    },
+    {
+      "circleId": 1,
+      "position": [0, 0],
+      "scale": 1.1,
+      "direction": "clockwise",
+      "rotationSpeed": 1.0
+    }
+  ]
+}
